@@ -76,7 +76,7 @@ Materials:
 ---
 
 ## Result:
-![SCH](\img\sch.png)
+![SCH](/img/sch.png)
 
 ![PCB](\img\pcb.png)
 
